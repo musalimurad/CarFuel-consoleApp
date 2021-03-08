@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+
 namespace car.console.app
 {
     class Car
@@ -15,7 +17,7 @@ namespace car.console.app
         public decimal CurrentFuel;
         private decimal FuelEffect;
         private decimal LocalKm=0;
-        private decimal GlobalKm;
+
         #endregion
         public Car()
         {
@@ -23,7 +25,7 @@ namespace car.console.app
         }
 
         #region Car constructor
-        public Car(string Mark, string Model, decimal MaxFuel, decimal CurrentFuel, decimal FuelEffect=12)
+        public Car(string Mark, string Model, decimal MaxFuel, decimal CurrentFuel, decimal FuelEffect)
         {
             this.Mark = Mark;
             this.Model = Model;
@@ -109,13 +111,7 @@ namespace car.console.app
         }
         #endregion
 
-        #region Probeg Method
-        public void Probeg()
-        {
-            GlobalKm += LocalKm;
-            Console.WriteLine($">>>>> Global km: {GlobalKm} km. <<<<<");
-        }
-        #endregion
+       
     }
 
 

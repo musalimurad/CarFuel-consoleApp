@@ -12,3 +12,10 @@ C:\Users\Administrator\Desktop\My  Projects\car.console.app\car.console.app\obj\
 C:\Users\Administrator\Desktop\My  Projects\car.console.app\car.console.app\obj\Debug\car.console.app.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\My  Projects\car.console.app\car.console.app\obj\Debug\car.console.app.exe
 C:\Users\Administrator\Desktop\My  Projects\car.console.app\car.console.app\obj\Debug\car.console.app.pdb
+C:\Users\Administrator\Desktop\MM\My  Projects\car.console.app\car.console.app\bin\Debug\car.console.app.exe.config
+C:\Users\Administrator\Desktop\MM\My  Projects\car.console.app\car.console.app\bin\Debug\car.console.app.exe
+C:\Users\Administrator\Desktop\MM\My  Projects\car.console.app\car.console.app\bin\Debug\car.console.app.pdb
+C:\Users\Administrator\Desktop\MM\My  Projects\car.console.app\car.console.app\obj\Debug\car.console.app.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MM\My  Projects\car.console.app\car.console.app\obj\Debug\car.console.app.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MM\My  Projects\car.console.app\car.console.app\obj\Debug\car.console.app.exe
+C:\Users\Administrator\Desktop\MM\My  Projects\car.console.app\car.console.app\obj\Debug\car.console.app.pdb
